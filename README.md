@@ -1,6 +1,6 @@
 # Streamlining Healthcare Operations with Preclinic Medical and Hospital Management System
 
-Welcome to the future of healthcare management with the Preclinic Medical and Hospital Management System. Built on the robust technologies of Node.js, Express, MySQL, and EJS, this revolutionary system empowers medical institutions to deliver exceptional patient care, optimize operations, and drive growth.
+Presenting the Preclinic Medical and Hospital Management System – a groundbreaking backend project where I focused primarily on backend development. This innovative system harmoniously integrates Node.js, Express, MySQL, and EJS to revolutionize healthcare management. While the frontend, exported from [Colorlib](https://colorlib.com/), boasts captivating aesthetics and dynamic functionality through HTML, CSS, JavaScript, and EJS, the backend harnesses the power of Node.js and Express for high-performance, secure, and scalable operations. Together with MySQL, this fusion of technologies propels healthcare management into a realm of efficiency and excellence. Welcome to the future of healthcare management, sculpted by the prowess of Preclinic's backend architecture.e, optimize operations, and drive growth.
 
 ## Getting Started
 
