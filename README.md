@@ -16,23 +16,23 @@ Welcome to the future of healthcare management with the Preclinic Medical and Ho
 
 ### 1. **Home**: The intuitive dashboard offers a warm welcome, providing an instant overview of key hospital metrics. Effortlessly navigate through essential sections to manage patients, staff, resources, and more.
 
-![Home](screenshot/home.PNG)
+![Home](screenshot/Home.png)
 
 ### 2. **Effortless Sign Up**: Simplify user onboarding with an intuitive signup process. Enable seamless access for medical professionals, administrators, and support staff, ensuring a quick start to their journey.
 
-![Sign Up](screenshot/signup.PNG)
+![Sign Up](screenshot/Sign Up.PNG)
 
 ### 3. **Comprehensive Dashboards**: Gain actionable insights with interactive dashboards. Visualize patient trends, track admissions, monitor occupancy rates, and make informed decisions to enhance hospital operations.
 
-![Dash Board](screenshot/dash.PNG)
+![Dash Board](screenshot/Dashboard.png)
 
 ### 4. **Advanced Medicine Store**: Effortlessly manage your medical inventory with the integrated Medicine Store feature. Keep stock levels optimized, streamline procurement, and ensure a seamless supply chain.
 
-![Medicine Store](screenshot/med.PNG)
+![Medicine Store](screenshot/Medicine Store.png)
 
 ### 5. **Streamlined Employee Leave Management**: Simplify staff leave management with a dedicated module. Enable employees to request leaves, automate approval workflows, and ensure a well-organized workforce.
 
-![Employee Leave Management](screenshot/leave.PNG)
+![Employee Leave Management](screenshot/Leave.png)
 
 ## Elevate Your Healthcare Management
 
