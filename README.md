@@ -20,7 +20,7 @@ Welcome to the future of healthcare management with the Preclinic Medical and Ho
 
 ### 2. **Effortless Sign Up**: Simplify user onboarding with an intuitive signup process. Enable seamless access for medical professionals, administrators, and support staff, ensuring a quick start to their journey.
 
-![Sign Up](screenshot/Sign Up.png)
+![Sign Up](screenshot/SignUp.png)
 
 ### 3. **Comprehensive Dashboards**: Gain actionable insights with interactive dashboards. Visualize patient trends, track admissions, monitor occupancy rates, and make informed decisions to enhance hospital operations.
 
@@ -28,7 +28,7 @@ Welcome to the future of healthcare management with the Preclinic Medical and Ho
 
 ### 4. **Advanced Medicine Store**: Effortlessly manage your medical inventory with the integrated Medicine Store feature. Keep stock levels optimized, streamline procurement, and ensure a seamless supply chain.
 
-![Medicine Store](screenshot/Medicine Store.png)
+![Medicine Store](screenshot/Medicine.png)
 
 ### 5. **Streamlined Employee Leave Management**: Simplify staff leave management with a dedicated module. Enable employees to request leaves, automate approval workflows, and ensure a well-organized workforce.
 
