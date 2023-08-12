@@ -30,11 +30,7 @@ Welcome to the future of healthcare management with the Preclinic Medical and Ho
 
 ![Medicine Store](screenshot/med.PNG)
 
-### 5. **Intelligent Report Generation**: Empower data-driven decisions with comprehensive report generation. Leverage analytics to allocate resources effectively, optimize patient outcomes, and drive hospital growth.
-
-![Report Generation](screenshot/report.PNG)
-
-### 6. **Streamlined Employee Leave Management**: Simplify staff leave management with a dedicated module. Enable employees to request leaves, automate approval workflows, and ensure a well-organized workforce.
+### 5. **Streamlined Employee Leave Management**: Simplify staff leave management with a dedicated module. Enable employees to request leaves, automate approval workflows, and ensure a well-organized workforce.
 
 ![Employee Leave Management](screenshot/leave.PNG)
 
