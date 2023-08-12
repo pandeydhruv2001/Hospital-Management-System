@@ -20,7 +20,7 @@ Welcome to the future of healthcare management with the Preclinic Medical and Ho
 
 ### 2. **Effortless Sign Up**: Simplify user onboarding with an intuitive signup process. Enable seamless access for medical professionals, administrators, and support staff, ensuring a quick start to their journey.
 
-![Sign Up](screenshot/Sign Up.PNG)
+![Sign Up](screenshot/Sign Up.png)
 
 ### 3. **Comprehensive Dashboards**: Gain actionable insights with interactive dashboards. Visualize patient trends, track admissions, monitor occupancy rates, and make informed decisions to enhance hospital operations.
 
